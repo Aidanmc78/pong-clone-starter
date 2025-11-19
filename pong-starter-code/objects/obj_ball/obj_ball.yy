@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_paddle",
-    "path":"sprites/spr_paddle/spr_paddle.yy",
+    "name":"spr_ball",
+    "path":"sprites/spr_ball/spr_ball.yy",
   },
   "spriteMaskId":null,
   "visible":true,
